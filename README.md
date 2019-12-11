@@ -15,4 +15,4 @@
 # Объекты
 Ссылки
 
-(https://ru.wikipedia.org/wiki/Шерлок_(телесериал))
+https://ru.wikipedia.org/wiki/Шерлок_(телесериал)
