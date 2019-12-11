@@ -17,4 +17,4 @@
 
 https://ru.wikipedia.org/wiki/Шерлок_(телесериал)
 
-(iwuydk@gmail.ru)
+iwuydk@gmail.ru
